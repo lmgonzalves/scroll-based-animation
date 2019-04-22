@@ -1,0 +1,32 @@
+{
+  "name": "scroll-based-animation",
+  "version": "0.0.1",
+  "description": "Scroll Based Animation with JavaScript",
+  "main": "js/scripts.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lmgonzalves/scroll-based-animation.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "animation",
+    "scroll"
+  ],
+  "author": "lmgonzalves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmgonzalves/scroll-based-animation/issues"
+  },
+  "homepage": "https://github.com/lmgonzalves/scroll-based-animation",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
